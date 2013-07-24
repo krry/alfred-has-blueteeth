@@ -1,6 +1,8 @@
 # KA-BLAOW!
 
-## You wanted an easy way to turn Bluetooth on and off. You're heavy on easy. And now you have it.
+## You wanted an easy way to turn Bluetooth on and off.
+
+You're heavy on easy. And now you have it easy as hard and weighty as you like.
 
 ### Bluetooth should not be so goddam hard to toggle.
 
