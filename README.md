@@ -8,7 +8,7 @@ date: 23 July 2013
 
 Bluetooth should not be so goddam hard to toggle.
 
-## You wanted an easy way to turn Bluetooth on and off. You're heavy on eassy. And now you have it.
+You wanted an easy way to turn Bluetooth on and off. You're heavy on easy. And now you have it.
 
 This Alfred workflow is as simple as a round object beside another round object. (balls)
 
